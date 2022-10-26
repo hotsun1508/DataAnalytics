@@ -1,0 +1,4 @@
+https://www.google.com/search?q={}tbm=nws&ei=_qlYY_TUHMPrwQOUjbOQBw&start={}&sa=N&ved=2ahUKEwj0y5y_-vz6AhXDdXAKHZTGDHI4HhDy0wN6BAgBEAs&biw=767&bih=691&dpr=1.25
+
+
+https://www.google.com/search?q=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D&hl=ko&tbm=nws&ei=U7RYY-DXLYfo-QaO7IXADw&start=10&sa=N&ved=2ahUKEwigzcushP36AhUHdN4KHQ52AfgQ8tMDegQIARAE&biw=820&bih=691&dpr=1.25
